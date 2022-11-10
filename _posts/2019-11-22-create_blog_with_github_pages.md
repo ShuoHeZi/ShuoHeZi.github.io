@@ -12,9 +12,7 @@ author: 许棠
 
 ## 开始
 
-[**点击在线预览我的博客**]( https://lemonchann.github.io/blog/)
-
-![blogPage](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/blogPage.png)
+[这样]
 
 
 
@@ -22,61 +20,22 @@ author: 许棠
 
 ### 支持特性
 
-- 简约风格博客
-
-- Powered By Jekyll
-
-- 博客文章搜索
-
-- 自定义社交链接
-
-- 网站访客统计
-
-- Google Analytics 网站分析
-
-- Gitalk评论功能
-
-- 自定义关于about页面
-
-- 支持中文布局
-
-- 支持归档与标签
-
-- 支持改变主题颜色
-
-- 支持添加文章目录
-
+- 有好多
   
 
-## 建立博客Git仓库
+## 第一序章
 
-首先你要在[github](https://github.com/)上有自己博客仓库，用来生成和存放博客文章。你可以直接fork我的博客仓库。这样你马上有了自己的博客仓库。
+[github](https://github.com/)。
+网站添加
 
-[点这里我的博客地址](https://github.com/lemonchann/lemonchann.github.io)进去点击 fork，之后在你自己的仓库下会看到刚复制的仓库，以后的操作都在你自己的仓库进行，当然想感谢我写这个教程就帮我点个 start 吧！
-
-![fork博客](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/fork%E5%8D%9A%E5%AE%A2.png)
-
-**版权声明： fork之后_posts文件夹内容是我的博客文章，版权归我所有。你可以选择删除里面的文章替换上自己的博客文章，如需转载需要与我联系授权 **。
+![标题](https://raw.githubusercontent.com/啥.png)
 
 
+## 不好玩
+**修改博客仓库名称成你自己的用户名**
 
-## 修改博客仓库名称
+*斜体
 
-进到你自己的博客仓库，**修改博客仓库名称成你自己的用户名**。因为 github page 解析的时候找的是这个 username.github.io的仓库名，**这一步非常重要**。
-
-![修改仓库名称](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/%E4%BF%AE%E6%94%B9%E4%BB%93%E5%BA%93%E5%90%8D%E7%A7%B0.png)
-
-此时，不出意外的话，打开域名 https://username.github.io 就能看到你刚搭建的博客了。*注意替换 username成你自己的github 用户名*。
-
-## 博客配置
-
-上面点开域名看到的还是我的博客配置，显示的博客名字也是我的。还需要更改配置才是你的博客。
-
-博客的配置文件是仓库根目录下的_config.yml文件，直接点开它编辑。
-
-![config文件](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/config%E6%96%87%E4%BB%B6.png)
-
-你还需要更改以下配置：
 
 ### 博客名称和描述
 
@@ -402,12 +361,3 @@ _include/svg-icons.html生成社交头像的链接
 
 
 
-## 致谢
-
-感谢 [Jekyll](https://www.jekyll.com.cn/) 提供的技术支持才能有这个博客。
-
-感谢 [LOFFER ](https://fromendworld.github.io/LOFFER/document/)提供的原始模板，我在其上进行的二次开发。
-
-**我的个人技术公众号「后端技术学堂」分享、记录、成长，扫码添加，一起学习，共同成长。**
-
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
