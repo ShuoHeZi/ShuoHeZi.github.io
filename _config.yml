@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Ivory Tower"
+name: "My Dear Shark"
 # Short bio or description (displayed in the header)
-description: "for instance"
+description: "study everyday"
 
 #
 # Flags below are optional
@@ -55,8 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: 世界线的观测者
-
+footer-text: 两只鲨鱼
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
